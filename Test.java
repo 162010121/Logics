@@ -20,6 +20,6 @@ class Demo
 		
 		Test im=new Test("FPQPP6012H");
 		String s=im.getUserName();
-		System.out.println("PanCardNumber:"+s);
+		System.out.println("PanCardDetails:"+s);
 	}
 }
